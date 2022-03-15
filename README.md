@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macbrink
 - 👀 I’m interested in .NET programming
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently into data services
 - 💞️ I’m looking to collaborate on everything .NET
 
 <!---
