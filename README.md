@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macbrink
-- 👀 I’m interested in .NET Coreprogramming
-- 🌱 I’m currently into data services
+- 👀 I’m interested in .NET Core programming
+- 🌱 I’m currently into clean architectures
 - 💞️ I’m looking to collaborate on everything .NET
 
 
